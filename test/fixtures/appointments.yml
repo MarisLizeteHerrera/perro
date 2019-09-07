@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  belongs_to: 
+  weight: MyString
+  date: 2019-09-07
+  time: 2019-09-07 11:54:10
+  breed: MyString
+
+two:
+  belongs_to: 
+  weight: MyString
+  date: 2019-09-07
+  time: 2019-09-07 11:54:10
+  breed: MyString
